@@ -1,1 +1,1 @@
-# Maya-Barak
+# OOP Cell Automata
